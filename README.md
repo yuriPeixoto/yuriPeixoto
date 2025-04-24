@@ -29,9 +29,21 @@ Desenvolvedor backend especializado em PHP e Laravel. Trabalho principalmente co
 
 ## 📊 Estatísticas GitHub
 
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=yuriPeixoto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas GitHub
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriPeixoto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=yuriPeixoto&color=blueviolet)
+
+[![Estatísticas GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=yuriPeixoto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuriPeixoto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuriPeixoto&theme=radical)](https://git.io/streak-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+PHP+%7C+Laravel;TALL+Stack+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuriPeixoto&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuriPeixoto&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
