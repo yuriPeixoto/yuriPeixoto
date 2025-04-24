@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+PHP+%7C+Laravel;TALL+Stack+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
-
 # Olá, bem-vindo ao meu GitHub! 👋
 
 ## Sobre mim
-Desenvolvedor backend especializado em PHP e Laravel. Trabalho principalmente com projetos privados, implementando soluções robustas usando o TALL Stack (Tailwind, Alpine.js, Laravel, Livewire).
+Desenvolvedor full stack especializado em PHP e Laravel. Trabalho principalmente com projetos privados, implementando soluções robustas usando o TALL Stack (Tailwind, Alpine.js, Laravel, Livewire).
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/SEU_USERNAME_SPOTIFY)
 
 ## 🚀 Tecnologias e Ferramentas
 
