@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+PHP+%7C+Laravel;TALL+Stack+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+
 # Olá, bem-vindo ao meu GitHub! 👋
 
 ## Sobre mim
