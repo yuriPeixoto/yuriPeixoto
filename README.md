@@ -3,7 +3,7 @@
 ## Sobre mim
 Desenvolvedor full stack especializado em PHP e Laravel. Trabalho principalmente com projetos privados, implementando soluções robustas usando o TALL Stack (Tailwind, Alpine.js, Laravel, Livewire).
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/SEU_USERNAME_SPOTIFY)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22lyead6w76qvxnztisy5f36i)
 
 ## 🚀 Tecnologias e Ferramentas
 
