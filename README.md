@@ -35,9 +35,9 @@ Desenvolvedor full stack especializado em PHP e Laravel. Trabalho principalmente
 
 [![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuriPeixoto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuriPeixoto&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yuriPeixoto&theme=radical)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+PHP+%7C+Laravel;TALL+Stack+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&theme=radical&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+PHP+%7C+Laravel;TALL+Stack+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuriPeixoto&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
