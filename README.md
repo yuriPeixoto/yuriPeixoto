@@ -29,8 +29,6 @@ Desenvolvedor backend especializado em PHP e Laravel. Trabalho principalmente co
 
 ## 📊 Estatísticas GitHub
 
-## 📊 Estatísticas GitHub
-
 ![](https://komarev.com/ghpvc/?username=yuriPeixoto&color=blueviolet)
 
 [![Estatísticas GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=yuriPeixoto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
