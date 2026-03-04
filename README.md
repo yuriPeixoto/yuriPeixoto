@@ -1,51 +1,107 @@
-# Olá, bem-vindo ao meu GitHub! 👋
+# Yuri Peixoto
 
-## Sobre mim
-Desenvolvedor full stack especializado em PHP e Laravel. Trabalho principalmente com projetos privados, implementando soluções robustas usando o TALL Stack (Tailwind, Alpine.js, Laravel, Livewire).
-
-## 🚀 Tecnologias e Ferramentas
-
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-### Frontend
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black)
-![Livewire](https://img.shields.io/badge/-Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
-
-### Ferramentas
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-4D4D4D?style=flat-square&logo=dbeaver&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Senior Project Manager | Technical Background | SaaS Architecture & Governance**
 
 ---
 
-## 📊 Estatísticas GitHub
+## Executive Summary
 
-![](https://komarev.com/ghpvc/?username=yuriPeixoto&color=blueviolet)
+Senior Project Manager with a strong technical background in backend architecture and product-oriented software development.
 
-[![Estatísticas GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=yuriPeixoto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I operate at the intersection of strategy, engineering, and execution — structuring systems, defining governance models, and aligning technical initiatives with operational goals.
 
-[![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuriPeixoto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Currently building public projects focused on:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yuriPeixoto&theme=radical)](https://git.io/streak-stats)
+- Modular monolith architecture
+- Multi-tenant SaaS systems
+- Technical governance tooling
+- Product-driven engineering practices
+- Operational metrics and decision tracking
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&theme=radical&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+PHP+%7C+Laravel;TALL+Stack+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuriPeixoto&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuriPeixoto&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Fluent in English. Open to global and remote collaboration.
 
 ---
 
-## 📫 Contato
+## Core Competencies
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-peixoto/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuripeixoto@gmail.com)
+- Technical Governance & Documentation (ADR-driven development)
+- SaaS Architecture (Multi-tenant systems)
+- Modular Monolith Design
+- Product-Oriented Engineering
+- Operational Metrics & Process Optimization
+- Laravel Ecosystem
+- React + TypeScript
+- PostgreSQL
+
+---
+
+## Strategic Projects
+
+### 🎼 Orquestra
+Technical Operations & Governance SaaS for engineering teams.  
+Multi-tenant architecture, ADR registry, roadmap alignment, operational metrics, and structured decision tracking.
+
+### 📊 Public Data Dashboard
+Data-driven decision platform leveraging Brazilian public datasets for analytics and performance visualization.
+
+### 🧪 Async Processing Service
+Python-based asynchronous processing service integrated with Laravel applications (document generation, OCR, background processing).
+
+### 🧠 Feature Flag & Governance Tools
+Experimentation and release control mechanisms for structured product evolution.
+
+### 🎮 PokéOps
+Architecturally structured evolution of a Pokémon analytics platform — performance, caching strategies, API-first design.
+
+### 🎲 RPG Campaign Manager
+Procedural and structured campaign management system with versioning and dynamic event modeling.
+
+---
+
+## Architecture & Engineering Approach
+
+- Documentation-first development
+- ADR (Architecture Decision Records) adoption
+- Clear modular boundaries
+- Tenant-aware design
+- Performance-aware database modeling
+- Governance-focused product structure
+- Clean commit history and structured issue tracking
+
+---
+
+## Technology Stack
+
+**Backend**
+- PHP (Laravel 12)
+- PostgreSQL
+- Redis
+
+**Frontend**
+- React
+- TypeScript
+- Inertia.js
+- TanStack Query
+- Zustand
+- TailwindCSS
+
+**DevOps & Tooling**
+- Docker
+- GitHub Actions
+- Pest (testing)
+
+---
+
+## Philosophy
+
+Product > Code  
+Structure > Volume  
+Clarity > Complexity  
+Governance > Chaos  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/yuri-peixoto/
+- Email: yuripeixoto@gmail.com
