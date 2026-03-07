@@ -1,107 +1,46 @@
 # Yuri Peixoto
 
-**Senior Project Manager | Technical Background | SaaS Architecture & Governance**
+**Senior Full Stack Developer & Project Manager** — building a real ecosystem, not just portfolio projects.
 
 ---
 
-## Executive Summary
+## What I am building
 
-Senior Project Manager with a strong technical background in backend architecture and product-oriented software development.
+Eight interconnected open source tools born from real professional pain — not tutorials, not toy apps.
+Each project solves something I actually needed at work and could not find done right.
 
-I operate at the intersection of strategy, engineering, and execution — structuring systems, defining governance models, and aligning technical initiatives with operational goals.
+| Project | Description | Status |
+|---|---|---|
+| [**Orquestra**](https://github.com/yuriPeixoto/orquestra) | Multi-tenant SaaS governance platform — ADR registry, initiative tracking, decision management | \![In Progress](https://img.shields.io/badge/status-in%20progress-22c55e?style=flat-square) |
+| [**Maestro**](https://github.com/yuriPeixoto/maestro) | On-premise observability — Go agent + Python API + ClickHouse, no cloud required | \![In Progress](https://img.shields.io/badge/status-in%20progress-22c55e?style=flat-square) |
+| **Sentinel** | Feature flags server + TypeScript/PHP SDKs (Go) | \![Planned](https://img.shields.io/badge/status-planned-3b82f6?style=flat-square) |
+| **Aegis** | Ticket & incident management (Python + FastAPI) | \![Planned](https://img.shields.io/badge/status-planned-3b82f6?style=flat-square) |
+| **Pulse** | CI/CD dashboard (Go + React) | \![Planned](https://img.shields.io/badge/status-planned-3b82f6?style=flat-square) |
+| **DataScope** | Brazilian public data analytics (Python + FastAPI + Pandas) | \![Planned](https://img.shields.io/badge/status-planned-3b82f6?style=flat-square) |
+| **Mythos** | RPG campaign manager with Fantasy Grounds VTT export (Django + React) | \![Planned](https://img.shields.io/badge/status-planned-3b82f6?style=flat-square) |
+| **PokéOps** | Competitive Pokémon platform (Python + FastAPI + Redis) | \![Planned](https://img.shields.io/badge/status-planned-3b82f6?style=flat-square) |
 
-Currently building public projects focused on:
-
-- Modular monolith architecture
-- Multi-tenant SaaS systems
-- Technical governance tooling
-- Product-driven engineering practices
-- Operational metrics and decision tracking
-
-Fluent in English. Open to global and remote collaboration.
-
----
-
-## Core Competencies
-
-- Technical Governance & Documentation (ADR-driven development)
-- SaaS Architecture (Multi-tenant systems)
-- Modular Monolith Design
-- Product-Oriented Engineering
-- Operational Metrics & Process Optimization
-- Laravel Ecosystem
-- React + TypeScript
-- PostgreSQL
+The core loop: **Orquestra** governs the work → **Maestro** watches the infra → **Aegis** manages the incidents.
 
 ---
 
-## Strategic Projects
+## Stack
 
-### 🎼 Orquestra
-Technical Operations & Governance SaaS for engineering teams.  
-Multi-tenant architecture, ADR registry, roadmap alignment, operational metrics, and structured decision tracking.
+**Mastered** — Laravel 12, PHP 8.4, React 18, TypeScript, Inertia.js, TailwindCSS, PostgreSQL, Redis  
+**Expanding** — Go 1.26, Python 3.10+ (FastAPI, Django, Pandas), ClickHouse
 
-### 📊 Public Data Dashboard
-Data-driven decision platform leveraging Brazilian public datasets for analytics and performance visualization.
-
-### 🧪 Async Processing Service
-Python-based asynchronous processing service integrated with Laravel applications (document generation, OCR, background processing).
-
-### 🧠 Feature Flag & Governance Tools
-Experimentation and release control mechanisms for structured product evolution.
-
-### 🎮 PokéOps
-Architecturally structured evolution of a Pokémon analytics platform — performance, caching strategies, API-first design.
-
-### 🎲 RPG Campaign Manager
-Procedural and structured campaign management system with versioning and dynamic event modeling.
-
----
-
-## Architecture & Engineering Approach
-
-- Documentation-first development
-- ADR (Architecture Decision Records) adoption
-- Clear modular boundaries
-- Tenant-aware design
-- Performance-aware database modeling
-- Governance-focused product structure
-- Clean commit history and structured issue tracking
-
----
-
-## Technology Stack
-
-**Backend**
-- PHP (Laravel 12)
-- PostgreSQL
-- Redis
-
-**Frontend**
-- React
-- TypeScript
-- Inertia.js
-- TanStack Query
-- Zustand
-- TailwindCSS
-
-**DevOps & Tooling**
-- Docker
-- GitHub Actions
-- Pest (testing)
+By day: Senior Dev + Project Manager at [Unitop Sistemas](https://unitop.com.br).  
+By night: nerd, gamer, avô, RPG player (Fantasy Grounds), Pokémon fan.
 
 ---
 
 ## Philosophy
 
-Product > Code  
-Structure > Volume  
-Clarity > Complexity  
-Governance > Chaos  
+> Product > Code. Structure > Volume. Clarity > Complexity. Governance > Chaos.
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/yuri-peixoto/
+- LinkedIn: [yuri-peixoto](https://www.linkedin.com/in/yuri-peixoto/)
 - Email: yuripeixoto@gmail.com
